@@ -18,7 +18,7 @@
     String email = request.getParameter("email");
     String password = request.getParameter("password");
 
-    int type = request.getParameter("tpye");
+//    int type = request.getParameter("type");
     //封装到User类里
     User user = new User(username,netname,email,password);
 

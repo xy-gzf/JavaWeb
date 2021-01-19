@@ -207,7 +207,7 @@
 <section class="services py-5">
 	<div class="container py-sm-3">
 		<h3 class="heading mb-lg-5 mb-4">Services </h3>
-		<div class="row service-grids">
+		<div class="row com.service-grids">
 			<div class="col-lg-4 col-md-6 grid1">
 				<span>01</span>
 				<h3> <i class="fas fa-camera-retro"></i> Photography </h3>
